@@ -14,7 +14,7 @@ Your team: group number ❔
   
   - Student 3: (ABOUEDDIHAJ Souhail 'Souhail-AB')
 
-  - Student 4: (AIT MAZOUZ Mohamed Walid '')
+  - Student 4: (AIT MAZOUZ Mohamed Walid 'WALID-AIT-MAZOUZ')
 
 ## Getting Started
 
